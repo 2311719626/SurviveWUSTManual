@@ -8,10 +8,11 @@ Version 4.2
 
 更新内容：
 
-* 声明了 CC BY-NC-SA 4.0 协议。
+* 声明了 CC BY-NC-SA 4.0 协议，声明于 Github 页面的 License.txt 中。
   * [署名--非商业使用--相同方式共享 4.0 协议国际版](https://creativecommons.org/licenses/by-nc-sa/4.0/)。
 * 将 Gitbook 内容通过 Github sync 工具同步到了 [Github仓库-SurviveWUSTManual ](https://github.com/2311719626/SurviveWUSTManual)
 * 重写了[<序>](./)。
+* 在[<友情链接>](you-qing-lian-jie.md)中增加了 THU自动化专业课程资源导航网站 OpenDA-wiki。
 
 {% hint style="success" %}
 Version 4.1
