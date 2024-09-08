@@ -12,10 +12,16 @@ description: 持续更新中...
 学生发展支持中心出品
 {% endfile %}
 
+## OpenDA-wiki
+
+THU自动化系课程共享计划——
+
+{% embed url="https://open-da.github.io/OpenDA-Wiki/" %}
+
 ## CS学习导航
 
-北大信科学长送给CS专业新生的礼物——
+北大信科学长送给CS专业学弟学妹们的礼物——
 
 {% embed url="https://csdiy.wiki/" %}
-CS diy
+CSdiy
 {% endembed %}

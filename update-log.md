@@ -1,6 +1,17 @@
 # Update Log
 
 {% hint style="success" %}
+Version 4.2 (In Progress)
+{% endhint %}
+
+更新时间：2024.9.8
+
+更新内容：
+
+* 声明了 CC BY-NC-SA 4.0 协议。
+  * [署名--非商业使用--相同方式共享 4.0 协议国际版](https://creativecommons.org/licenses/by-nc-sa/4.0/)。
+
+{% hint style="success" %}
 Version 4.1
 {% endhint %}
 
