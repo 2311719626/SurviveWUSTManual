@@ -1,16 +1,5 @@
 # 序
 
-Shield: [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
-
-This work is licensed under a
-[Creative Commons Attribution-NonCommercial 4.0 International License][cc-by-nc].
-
-[![CC BY-NC 4.0][cc-by-nc-image]][cc-by-nc]
-
-[cc-by-nc]: https://creativecommons.org/licenses/by-nc/4.0/
-[cc-by-nc-image]: https://licensebuttons.net/l/by-nc/4.0/88x31.png
-[cc-by-nc-shield]: https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg
-
 ## Most men lead lives of quiet desperation.
 
 对于中国学生而言，理想的激情最热烈的时候，往往是在高中阶段——每一个人都会有自己的一个目标，每个人都会在某个深夜和他或她畅聊自己的人生理想。那时，我们觉得，一切尽在掌控之中，觉得未来充满期待。
