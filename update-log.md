@@ -1,7 +1,7 @@
 # Update Log
 
 {% hint style="success" %}
-Version 4.2 (In Progress)
+Version 4.2
 {% endhint %}
 
 更新时间：2024.9.8
@@ -10,7 +10,8 @@ Version 4.2 (In Progress)
 
 * 声明了 CC BY-NC-SA 4.0 协议。
   * [署名--非商业使用--相同方式共享 4.0 协议国际版](https://creativecommons.org/licenses/by-nc-sa/4.0/)。
-* 将 Gitbook 内容通过 Github sync 工具同步到了 [Github仓库-SurviveWUSTManual ](https://github.com/2311719626/SurviveWUSTManual)，仓库开源。
+* 将 Gitbook 内容通过 Github sync 工具同步到了 [Github仓库-SurviveWUSTManual ](https://github.com/2311719626/SurviveWUSTManual)
+* 重写了[<序>](./)。
 
 {% hint style="success" %}
 Version 4.1
