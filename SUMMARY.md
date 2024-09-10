@@ -20,6 +20,7 @@
 
 * [\[A 领航篇\] 毕业学长谈](fang-tan-ji/a-ling-hang-pian-bi-ye-xue-zhang-tan/README.md)
   * [\[17级机械 | 大疆工程师\]学校情况概览](fang-tan-ji/a-ling-hang-pian-bi-ye-xue-zhang-tan/17-ji-ji-xie-da-jiang-gong-cheng-shi-xue-xiao-qing-kuang-gai-lan.md)
+  * [\[20级计算机 | 中科院研究所\]我的保研历程](fang-tan-ji/a-ling-hang-pian-bi-ye-xue-zhang-tan/20-ji-ji-suan-ji-zhong-ke-yuan-yan-jiu-suo-wo-de-bao-yan-li-cheng.md)
 * [\[B 向阳篇\] 在校学生谈](fang-tan-ji/b-xiang-yang-pian-zai-xiao-xue-sheng-tan/README.md)
   * [\[23级计算机\]如何适应大学生活](fang-tan-ji/b-xiang-yang-pian-zai-xiao-xue-sheng-tan/23-ji-ji-suan-ji-ru-he-shi-ying-da-xue-sheng-huo.md)
   * [\[23级计算机\]一位新媒体人的自传](fang-tan-ji/b-xiang-yang-pian-zai-xiao-xue-sheng-tan/23-ji-ji-suan-ji-yi-wei-xin-mei-ti-ren-de-zi-zhuan.md)
