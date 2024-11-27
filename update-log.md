@@ -1,6 +1,16 @@
 # Update Log
 
 {% hint style="success" %}
+Version 4.3
+{% endhint %}
+
+更新时间：2024.11.27
+
+更新内容：
+
+* 根据反馈修正了访谈集下的部分文本。
+
+{% hint style="success" %}
 Version 4.2
 {% endhint %}
 
@@ -87,7 +97,7 @@ Version 3.5
 * 将原<探索真正想做的事>标题变更为[<独立性思考>](li-zhi-pian/du-li-xing-si-kao.md)。
 * 增加[<保卫WUSTer的文化生活>](sheng-cun-ji-qiao/bao-wei-wuster-de-wen-hua-sheng-huo.md)。
 * 修改[<关于试点班>](sheng-cun-ji-qiao/guan-yu-shi-dian-ban.md)，加入了香涛学院的部分内容。
-* 更新了PDF，下载链接（[Download](https://github.com/2311719626/SurviveWUSTManual\_LaTeX/releases/download/PDF/SurviveWUSTManual.pdf)）
+* 更新了PDF，下载链接（[Download](https://github.com/2311719626/SurviveWUSTManual_LaTeX/releases/download/PDF/SurviveWUSTManual.pdf)）
 
 {% hint style="success" %}
 Version 3.4
